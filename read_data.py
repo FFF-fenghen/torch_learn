@@ -29,3 +29,7 @@ ant_data = MyData(root_dir, ant_label_dir)
 bee_data = MyData(root_dir, bees_label_dir)
 
 train_set = ant_data + bee_data
+
+'''
+this is a test
+'''
